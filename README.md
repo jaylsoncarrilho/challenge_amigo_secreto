@@ -34,4 +34,8 @@ Se quiser visualizar o código funcionando, basta abrir o arquivo `index.html` n
 
 ---
 
+*(Suporte a criação do ReadMe pela IA Copilot)*
+
+---
+
 ⚡ Desenvolvido para simplificar o sorteio de amigos secretos! 😃🎉
